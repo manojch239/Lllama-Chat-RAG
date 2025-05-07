@@ -1,7 +1,7 @@
  Building a RAG pipeline using the LangChain ecosystem and a web application that allows users to:
  
 
-   - Upload documents (PDFs, text, etc.)
+   - Upload documents (currently only DOCX is supported)
 
    - Ask questions about their content
 
@@ -11,10 +11,9 @@
 
     Llama 4
 
-    LangChain
+    - LangChain
 
-    [Vector Stores](https://www.pinecone.io/, Chroma DB)
+    - Vector Stores(Chroma DB)
 
-    [Streamlit / Gradio / Flask] (Choose one for the web interface)
+    - Gradio for the web interface
 
-    Python 3.8+
