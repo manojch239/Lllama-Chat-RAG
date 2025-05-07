@@ -17,11 +17,13 @@
 
     - Gradio for the web interface
 
-      💡Coming Soon
 
-    - Support for multiple document types
 
-    - User authentication
+💡 Coming Soon
+
+-Support for multiple document types
+
+-User authentication
 
     Preview 
 ![Preview of the Llama Chat Web Application](Images/Demo.png)
