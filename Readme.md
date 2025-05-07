@@ -24,4 +24,4 @@
     - User authentication
 
     Preview 
-![Preview of the Llama Chat Web Application](Demo.png)
+![Preview of the Llama Chat Web Application](Images/Demo.png)
